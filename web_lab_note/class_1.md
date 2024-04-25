@@ -90,5 +90,3 @@ Password: your_personal_access_token
 总的来说,Linux上使用Git需要更多的手动配置和管理,而Windows上Git在安装时就为您做了很多自动化的合理默认配置,使得在Windows上使用Git的体验通常更加简单直观一些。但同时Linux也给予了用户更多的定制化选择。这些差异源于Linux和Windows操作系统本身的差异所导致的。
 
 也就是说，`git config`在Windows和Linux上是不一样的，要注意区分。
-
->>>>>>> 5d49cfc (delete the password of github)
